@@ -16,7 +16,7 @@ Realize a instalação com o seguinte comando:
 ./install.sh
 ```
 
-Ao finalizar a instalação o PopCorn estará pronto para uso.
+Ao finalizar a instalação o Popcorn estará pronto para uso.
 
 ## Licença
 
