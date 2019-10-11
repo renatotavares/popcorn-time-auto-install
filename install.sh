@@ -33,4 +33,4 @@ sudo echo "Categories = Application;" >> /usr/share/applications/popcorntime.des
 sudo wget -O /opt/popcorntime/popcorn.png https://upload.wikimedia.org/wikipedia/commons/d/df/Pctlogo.png
 
 clean
-echo "Instalação finalizada"
+echo "Instalação finalizada com sucesso"
