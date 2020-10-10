@@ -8,6 +8,7 @@ Clone o repositório e permita que o script seja executado com o comando abaixo:
 
 ```
 chmod +x install.sh
+
 ```
 
 Realize a instalação com o seguinte comando:
