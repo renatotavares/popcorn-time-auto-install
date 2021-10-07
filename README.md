@@ -1,6 +1,6 @@
 # Instalador Automático para Popcorn Time no Linux
 
-> Simples script para executar a instalação do Popcorn Time
+> um simples script para executar a instalação do Popcorn Time
 
 ### Instalando
 
